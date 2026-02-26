@@ -1,0 +1,46 @@
+===== EXAM SEATING ARRANGEMENT =====
+Roll No : 251302020
+Name    : avnish
+Seat No : 1
+Hall    : Hall A
+----------------------------
+Roll No : 251302070
+Name    : sahil
+Seat No : 2
+Hall    : Hall A
+----------------------------
+Roll No : 251302074
+Name    : manish
+Seat No : 3
+Hall    : Hall A
+----------------------------
+Roll No : 251302099
+Name    : riya
+Seat No : 4
+Hall    : Hall A
+----------------------------
+Roll No : 251302151
+Name    : rahul
+Seat No : 5
+Hall    : Hall A
+----------------------------
+Roll No : 251302157
+Name    : khushi
+Seat No : 1
+Hall    : Hall B
+----------------------------
+Roll No : 251302161
+Name    : piyush
+Seat No : 2
+Hall    : Hall B
+----------------------------
+Roll No : 251302163
+Name    : jayant
+Seat No : 3
+Hall    : Hall B
+----------------------------
+Roll No : 251302217
+Name    : sanchit
+Seat No : 4
+Hall    : Hall B
+----------------------------
