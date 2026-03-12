@@ -1,46 +1,24 @@
-===== EXAM SEATING ARRANGEMENT =====
-Roll No : 251302020
-Name    : avnish
-Seat No : 1
-Hall    : Hall A
-----------------------------
-Roll No : 251302070
-Name    : sahil
-Seat No : 2
-Hall    : Hall A
-----------------------------
-Roll No : 251302074
-Name    : manish
-Seat No : 3
-Hall    : Hall A
-----------------------------
-Roll No : 251302099
-Name    : riya
-Seat No : 4
-Hall    : Hall A
-----------------------------
-Roll No : 251302151
-Name    : rahul
-Seat No : 5
-Hall    : Hall A
-----------------------------
-Roll No : 251302157
-Name    : khushi
-Seat No : 1
-Hall    : Hall B
-----------------------------
-Roll No : 251302161
-Name    : piyush
-Seat No : 2
-Hall    : Hall B
-----------------------------
-Roll No : 251302163
-Name    : jayant
-Seat No : 3
-Hall    : Hall B
-----------------------------
-Roll No : 251302217
-Name    : sanchit
-Seat No : 4
-Hall    : Hall B
-----------------------------
+========================================
+       EXAM SEATING ARRANGEMENT
+========================================
+
+--- HALL STATUS ---
+Hall: Hall A | Invigilator: prof jyoti | Seats: 5/5
+Hall: Hall B | Invigilator: prof vinod | Seats: 2/5
+Hall: Hall C | Invigilator: Not Assigned | Seats: 0/5
+Hall: Hall D | Invigilator: Not Assigned | Seats: 0/5
+Hall: Hall E | Invigilator: Not Assigned | Seats: 0/5
+Hall: Hall F | Invigilator: Not Assigned | Seats: 0/5
+Hall: Hall G | Invigilator: Not Assigned | Seats: 0/5
+Hall: Hall H | Invigilator: Not Assigned | Seats: 0/5
+Hall: Hall I | Invigilator: Not Assigned | Seats: 0/5
+Hall: Hall J (Special) | Invigilator: Not Assigned | Seats: 0/5
+
+--- STUDENTS ---
+Roll: 102 | Name: tushar | Branch: cse | Hall: Hall A | Seat: 1
+Roll: 103 | Name: jayant | Branch: cse | Hall: Hall A | Seat: 2
+Roll: 104 | Name: khushi | Branch: cse | Hall: Hall A | Seat: 3
+Roll: 105 | Name: piyush | Branch: cse | Hall: Hall A | Seat: 4
+Roll: 106 | Name: sanchit | Branch: cse | Hall: Hall A | Seat: 5
+Roll: 107 | Name: manish | Branch: cse | Hall: Hall B | Seat: 1
+Roll: 108 | Name: rahul | Branch: cse | Hall: Hall B | Seat: 2
