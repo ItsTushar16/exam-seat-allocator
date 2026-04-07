@@ -65,11 +65,17 @@ The system is organized using multiple classes:
 # ⚙ System Workflow
 
 1️⃣ Students are added to the system.
+
 2️⃣ The system automatically assigns the **next available seat**.
+
 3️⃣ Halls are filled sequentially **Hall A → Hall I → Special Hall**.
+
 4️⃣ Invigilators can be added and assigned to halls.
+
 5️⃣ Users can view student lists, hall assignments, and system summary.
+
 6️⃣ Seating records can be **saved to a file** and **loaded later**.
+
 
 ---
 
