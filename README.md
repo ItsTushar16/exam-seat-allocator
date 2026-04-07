@@ -11,14 +11,23 @@ This project simulates how educational institutions manage **exam seating arrang
 # 🚀 Features
 
 ✔ Automatic **seat allocation for students**
+
 ✔ **Exam hall management** with seat tracking
+
 ✔ **Special exam hall** support for accessibility
+
 ✔ **Invigilator management and assignment**
+
 ✔ **Search student by roll number**
+
 ✔ **View students hall-wise**
+
 ✔ **Hall occupancy summary**
+
 ✔ **File handling for saving seating records**
+
 ✔ **Menu driven console interface**
+
 
 ---
 
